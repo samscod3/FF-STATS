@@ -1,0 +1,7 @@
+nfl_data_py>=0.4
+pandas>=2.2
+numpy>=1.26
+plotly>=5.22
+requests>=2.31
+rapidfuzz>=3.9
+certifi>=2024.2.2
